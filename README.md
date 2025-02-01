@@ -5,7 +5,7 @@
 
 _Decreation (2024)_
 
-![image alt](https://github.com/iamapsyop/iamapsyop.github.io/blob/cef535a3e1cbbaf2b2519233a8e2fdd5ee176444/_MG_0936-3.jpg)
+![image alt](https://github.com/iamapsyop/iamapsyop.github.io/blob/main/_MG_0936-3.jpg?raw=true) 
 
 _Decreation (2024)_
 
