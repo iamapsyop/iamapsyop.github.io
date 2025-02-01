@@ -9,7 +9,7 @@ _Decreation (2024)_
 
 _Decreation (2024)_
 
-![image alt](https://github.com/iamapsyop/iamapsyop.github.io/blob/6ff82022eefb20f330f7fde26597205962458615/IMG_9513.JPG)
+![image alt](https://github.com/iamapsyop/iamapsyop.github.io/blob/main/IMG_9513.JPG?raw=true) 
 
 _Melancholics Credo (2024)_
 
