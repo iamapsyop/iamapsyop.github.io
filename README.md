@@ -12,6 +12,9 @@
         }
          </style>
 
+cursor: url(https://github.com/iamapsyop/iamapsyop.github.io/blob/main/vibrant-purple-orchid-bloom-e6rzd2jnz2z55q29.jpg?raw=true), auto;
+
+
 </body>
 </html>
 
