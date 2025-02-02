@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1 style="border:2px solid Purple;">Ashanthy Shahananth</h1>
+<h1 style="border:2px solid Purple;" "text-alightn; centre;" >Ashanthy Shahananth</h1>
 
 </body>
 </html>
