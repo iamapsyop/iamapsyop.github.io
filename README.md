@@ -21,7 +21,7 @@
         }
 
         nav a:hover {
-            background-color: #ddd;
+            background-color: #eee;
             color: purple;
         }
 
