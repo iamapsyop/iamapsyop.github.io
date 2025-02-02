@@ -1,13 +1,11 @@
 <html>
 <head>
-   <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            cursor: url(https://github.com/iamapsyop/iamapsyop.github.io/blob/main/vibrant-purple-orchid-bloom-e6rzd2jnz2z55q29.jpg?raw=true), auto; 
-        }
-    </style>
-</head>
+   <head>
+  <style>
+      html {
+          cursor: url(https://github.com/iamapsyop/iamapsyop.github.io/blob/main/vibrant-purple-orchid-bloom-e6rzd2jnz2z55q29.jpg?raw=true), auto;
+      }
+  </style>
   
 <body>
 <h1 style="font-family:Times New Roman; text-align: center;">Ashanthy Shahananth</h1>
