@@ -1,10 +1,10 @@
 <html>
-   <head>
+  <head>
   <style>
       html {
-          cursor: url(https://imgur.com/qeYhSpz), auto;
+          cursor: url("https://i.imgur.com/8Jhi9oS.png"), auto;
       }
-  </style>
+  </style> 
   
 <body>
 <h1 style="font-family:Times New Roman; text-align: center;">Ashanthy Shahananth</h1>
