@@ -11,13 +11,13 @@
 <h4 style="font-family:Times New Roman; text-align: center;">PORTFOLIO</h4>
 
   <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/_MG_1123.jpg?raw=true" alt="DecreationOne" />
-  <p>Decreation (2024)</p>
+  <p style="font-family:Times New Roman; >Decreation (2024)</p>
 <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/_MG_0936-3.jpg?raw=true" alt="DecreationTwo" />
-<p>Decreation (2024)</p>
+<p style="font-family:Times New Roman;>Decreation (2024)</p>
 <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/IMG_9513.JPG?raw=true" alt="MelancholicsCredo" />
-<p>Melancholics Credo (2024)</p>
+<p style="font-family:Times New Roman; >Melancholics Credo (2024)</p>
  <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/_MG_9848.jpg?raw=true?" alt="ALittleTempted" />
- <p>A Little Tempted (2024)</p>
+ <p style="font-family:Times New Roman; >A Little Tempted (2024)</p>
 
 </body>
 </html>
