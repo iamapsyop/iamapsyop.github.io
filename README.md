@@ -22,13 +22,13 @@
 
         nav a:hover {
             background-color: #ddd;
-            color: black;
+            color: purple;
         }
 
         /* Style for active tab */
         nav a.active {
             background-color: #4CAF50;
-            color: white;
+            color: green;
         }
     </style>
 </head>
