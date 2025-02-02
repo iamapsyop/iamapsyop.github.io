@@ -4,7 +4,7 @@
 <link href='https://fonts.googleapis.com/css?family=Ballet' rel='stylesheet'>
 <style>
 body {
-    font-family: 'Ballet';font-size: 22px;
+    font-family: 'Ballet';font-size: 36px;
 }
 </style>
   <style>
@@ -21,7 +21,7 @@ body {
   Your browser does not support the audio element.
 </audio>
 
-<h1 style="font-family:Ballet; text-align: center; color:MediumVioletRed; font-size:30px; ">Ashanthy Shahananth</h1>
+<h1 style="font-family:Ballet; text-align: center; color:MediumVioletRed; font-size:36px; ">Ashanthy Shahananth</h1>
 <h4 style="font-family:Times New Roman; text-align: center;">PORTFOLIO</h4>
 
   <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/_MG_1123.jpg?raw=true" alt="DecreationOne" />
