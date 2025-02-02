@@ -2,7 +2,7 @@
   <head>
   <style>
       html {
-          cursor: url("https://i.imgur.com/8Jhi9oS.png"), auto;
+          cursor: url('cursor.cur'), auto;
       }
   </style> 
   
