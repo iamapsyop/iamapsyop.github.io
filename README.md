@@ -1,7 +1,7 @@
 <head>
     <style>
         body {
-            cursor: url(;
+            cursor: url(https://github.com/iamapsyop/iamapsyop.github.io/blob/main/790c78d39fd853ae72167411aa11d727-pixilated-hand-cursor-1.png?raw=true);
         }
     </style>
 </head>
