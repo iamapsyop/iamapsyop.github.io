@@ -1,7 +1,7 @@
 <head>
     <style>
         body {
-            cursor: crosshair;
+            cursor: url(;
         }
     </style>
 </head>
