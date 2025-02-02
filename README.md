@@ -8,7 +8,7 @@
   
 <body>
 
-  <audio controls>
+  <audio autoplay controls>
   <source src="Luna.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
