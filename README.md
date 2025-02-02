@@ -1,3 +1,14 @@
+<head>
+    <style>
+        body {
+            cursor: crosshair;
+        }
+    </style>
+</head>
+
+
+
+
 # Ashanthy Shahananth
 ##### PORTFOLIO
 
