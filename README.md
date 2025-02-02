@@ -2,7 +2,7 @@
    <head>
   <style>
       html {
-          cursor: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fpng%2Fvibrant-purple-orchid-bloom-e6rzd2jnz2z55q29.html&psig=AOvVaw1BM1bbzy1K-m_Q_gwxfXQd&ust=1738577509353000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCI74jgpIsDFQAAAAAdAAAAABAE), auto;
+          cursor: url(https://imgur.com/qeYhSpz), auto;
       }
   </style>
   
