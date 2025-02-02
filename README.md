@@ -25,13 +25,13 @@ body {
 <h4 style="font-family:Times New Roman; text-align: center;">PORTFOLIO</h4>
 
   <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/_MG_1123.jpg?raw=true" alt="DecreationOne" />
-  <p style="font-family:Times New Roman;" >Decreation (2024)</p>
+  <p>Decreation (2024)</p>
 <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/_MG_0936-3.jpg?raw=true" alt="DecreationTwo" />
-<p style="font-family:Times New Roman;">Decreation (2024)</p>
+<p>Decreation (2024)</p>
 <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/IMG_9513.JPG?raw=true" alt="MelancholicsCredo" />
-<p style="font-family:Times New Roman;" >Melancholics Credo (2024)</p>
+<p>Melancholics Credo (2024)</p>
  <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/_MG_9848.jpg?raw=true?" alt="ALittleTempted" />
- <p style="font-family:Times New Roman;" >A Little Tempted (2024)</p>
+ <p>A Little Tempted (2024)</p>
 
 </body>
 
