@@ -1,13 +1,16 @@
-  <html>
+<html>
   <head>
-    <link href='https://fonts.googleapis.com/css?family=Ballet' rel='stylesheet'>
+    <head>
+<link href='https://fonts.googleapis.com/css?family=Ballet' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Ballet';font-size: 22px;
+}
+</style>
   <style>
       html {
           cursor: url('cursor.cur'), auto;
       }
-    body {
-    font-family: 'Ballet';font-size: 22px;
-}
   </style> 
   
   
