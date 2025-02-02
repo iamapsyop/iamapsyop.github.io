@@ -4,7 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Custom Cursor Example</title>
     <style>
-        /* Change the cursor for the whole page */
         body {
             cursor: url(https://github.com/iamapsyop/iamapsyop.github.io/blob/main/vibrant-purple-orchid-bloom-e6rzd2jnz2z55q29.jpg?raw=true), auto; 
         }
