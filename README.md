@@ -15,8 +15,6 @@
 <h1 style="font-family:Times New Roman; text-align: center;">Ashanthy Shahananth</h1>
 <h4 style="font-family:Times New Roman; text-align: center;">PORTFOLIO</h4>
 
-cursor: url(https://github.com/iamapsyop/iamapsyop.github.io/blob/main/vibrant-purple-orchid-bloom-e6rzd2jnz2z55q29.jpg?raw=true), auto;
-
 
 </body>
 </html>
