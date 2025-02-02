@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1 style="text-align: centre ; border:2px solid Tomato;">Ashanthy Shahananth</h1>
-<h1 style=>PORTFOLIO</h1> 
+<h4 style=>PORTFOLIO</h4> 
 
 </body>
 </html>
