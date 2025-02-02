@@ -6,7 +6,7 @@
     <style>
         /* Basic style for the navigation bar */
         nav {
-            background-color: #333;
+            background-color: #777;
             overflow: hidden;
         }
 
