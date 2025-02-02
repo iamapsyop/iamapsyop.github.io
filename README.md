@@ -1,3 +1,11 @@
+<div style="text-align: center;">
+    <h3>Welcome to My Project!</h3>
+    <p>This is an amazing project.</p>
+</div>
+
+
+
+
 # Ashanthy Shahananth
 ##### PORTFOLIO
 
