@@ -1,7 +1,7 @@
 <html>
   <head>
   <div>
-    <a href="#contact-me" style="font-family:Times New Roman; text-align:right;">Contact Me</a>
+    <a href="#contact-me;" style="font-family:Times New Roman;">Contact Me</a>
 </div>
     
 <link href='https://fonts.googleapis.com/css?family=Ballet' rel='stylesheet'>
