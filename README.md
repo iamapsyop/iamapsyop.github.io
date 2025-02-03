@@ -24,7 +24,7 @@ body {
   Your browser does not support the audio element.
 </audio>
 
-<p style="font-family:Ballet; text-align: center; color:MediumVioletRed; font-size:50px; "><b>Ashanthy Shahananth</b></p>
+<h1 style="font-family:Ballet; text-align: center; color:MediumVioletRed; font-size:50px; "><b>Ashanthy Shahananth</b></h1>
 <h4 style="font-family:Times New Roman; text-align: center;">PORTFOLIO</h4>
 
   <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/_MG_1123.jpg?raw=true" alt="DecreationOne" />
