@@ -38,9 +38,9 @@ body {
  <p>A Little Tempted (2024)</p>
 
 
-<h2 id="contact-me;">Contact Me</h2>
-<p>If you would like to email me: ashanthy0909@gmail.com</p>
-<p>If you would like to direct message me: <a href="https://www.instagram.com/ashanthy999/" target="_blank">Ash's Blog</a> .</p>
+<h2 style="font-family:Times New Roman;" id="contact-me;">Contact Me</h2>
+<p style="font-family:Times New Roman;">If you would like to email me: ashanthy0909@gmail.com</p>
+<p style="font-family:Times New Roman;">If you would like to direct message me: <a href="https://www.instagram.com/ashanthy999/" target="_blank">Ash's Blog</a> .</p>
 
 
 
