@@ -1,6 +1,9 @@
 <html>
-  <head>
+  <div>
+    <a href="#contact-me">Contact Me</a>
+</div>
     <head>
+  <head>
 <link href='https://fonts.googleapis.com/css?family=Ballet' rel='stylesheet'>
 <style>
 body {
@@ -33,6 +36,16 @@ body {
  <img src="https://github.com/iamapsyop/iamapsyop.github.io/blob/main/_MG_9848.jpg?raw=true?" alt="ALittleTempted" />
  <p>A Little Tempted (2024)</p>
 
+
+<h2 id="contact-me;">Contact Me</h2>
+<p>If you would like to email me: ashanthy0909@gmail.com</p>
+<p>If you would like to direct message me: <a href="https://www.instagram.com/ashanthy999/" target="_blank">Ash's Blog</a> .</p>
+
+
+
+<h1 style="font-family:Ballet; text-align: center; color:MediumVioletRed; font-size:50px; "><b>Thank you for visiting me!</b></h1>
+
 </body>
+
 
 
