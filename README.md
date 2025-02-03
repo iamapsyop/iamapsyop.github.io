@@ -2,7 +2,7 @@
   <div>
     <a href="#contact-me">Contact Me</a>
 </div>
-    <head>
+
   <head>
 <link href='https://fonts.googleapis.com/css?family=Ballet' rel='stylesheet'>
 <style>
