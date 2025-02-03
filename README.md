@@ -7,7 +7,7 @@
 <link href='https://fonts.googleapis.com/css?family=Ballet' rel='stylesheet'>
 <style>
 body {
-    font-family: 'Ballet';font-size: 36px;
+    font-family: 'Ballet';font-size: 24px;
 }
 </style>
   <style>
