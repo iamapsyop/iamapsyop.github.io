@@ -9,7 +9,7 @@ body {
 </style>
   <style>
       html {
-          cursor: url('cursor.cur'), auto;
+          cursor: url('pinkcursor.cur'), auto;
       }
   </style> 
   
