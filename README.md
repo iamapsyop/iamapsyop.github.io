@@ -1,9 +1,10 @@
 <html>
+
+  <head>
   <div>
     <a href="#contact-me">Contact Me</a>
 </div>
-
-  <head>
+    
 <link href='https://fonts.googleapis.com/css?family=Ballet' rel='stylesheet'>
 <style>
 body {
